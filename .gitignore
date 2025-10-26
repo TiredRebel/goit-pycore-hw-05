@@ -207,3 +207,5 @@ marimo/_lsp/
 __marimo__/
 caching_fibonacci.md
 generator_numbers.md
+log_parser.md
+log_app.md
